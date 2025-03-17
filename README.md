@@ -1,1 +1,19 @@
-# Generative-AI-with-LLMs
+Generative AI with Large Language Models - Deeplearning.AI and Amazon Web Services
+This repository contains all the resources I used and created for the Generative AI with LLMs course on Coursera
+
+Course Syllabus
+Week 1
+Transformer Architecture
+Prompting and Prompt Engineering
+Generative AI Project Lifecycle
+Pre-training LLMs
+Week 2
+Instruction Fine-Tuning
+Model Evaluation and Benchmarks
+Parameter Efficient Fine-Tuning (PEFT)
+LoRA and Soft Prompts
+Week 3
+Reinforcement Learning from Human Feedback (RLHF)
+Proximal Policy Optimization
+Model optimization for deployment
+LLM application architecture
